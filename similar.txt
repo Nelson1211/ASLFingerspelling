@@ -1,0 +1,8 @@
+A, E, S, T
+B, R, U
+K, V, W, Z, F
+C, O
+G, H
+I, J, Y
+M, N
+Q, SPACE
